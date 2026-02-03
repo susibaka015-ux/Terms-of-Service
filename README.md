@@ -4,7 +4,13 @@ Effective Date: 03.02.2026
 1. Acceptance of Terms
 By inviting [TIBOT to a Discord server or using its commands, you agree to these terms. If you do not agree, do not use the bot. 
 2. Description of Service
-TIBOT is a tool designed for perivate purposes on Discord. It is provided "as is" and "as available." 
+TIBOT is a tool designed for perivate purposes on Discord. It is provided "as is" and "as available."
+3. User Conduct
+You agree to comply with Discord's Terms of Service and Community Guidelines. You may not: 
+
+    Use the bot for illegal activities or to harass, spam, or bully others.
+    Attempt to reverse engineer or exploit the bot.
+    Use the bot to violate third-party rights. 
 4. Data and Privacy
 The bot collects data necessary for its operation, such as Discord IDs, server IDs, and message content (if necessary for features like logging or moderation). This data is handled in accordance with Discord's policies. 
 5. Limitation of Liability
